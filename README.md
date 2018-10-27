@@ -1,2 +1,2 @@
-# Freedom-CODER
+# Freedom-Coder
 Freedom coder
